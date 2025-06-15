@@ -45,3 +45,4 @@ It includes sales, revenue, product, and customer data.
 🧠 Gained insights to optimize business operations
 
 SCREENSHOT/DEMO
+SHOW WHAT DASHBOARD LOOKS A LIKE :- https://github.com/Karuna9502/Blinkit-dashboard/blob/main/BLINKIT%20DASHBOARD.png
